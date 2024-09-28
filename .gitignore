@@ -1,0 +1,7 @@
+# Ignore node_modules from both frontend and backend
+frontend/node_modules
+backend/node_modules
+
+# Optionally, ignore log files and other sensitive data
+*.log
+.env
